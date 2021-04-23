@@ -1,0 +1,18 @@
+{
+    "var":{
+
+        "localserver":"True",
+        "database_uri":"sqlite:///flaskapp.db",
+        "prod_database_uri":"sqlite:///flaskapp.db",
+        "fb_link":"https://www.facebook.com/groups/pypcom",
+        "github_link":"https://github.com/KeithGalli/pandas",
+        "twitter_link":"https://github.com/KeithGalli/pandas",
+        "email_user":"connectwithjubayer@gmail.com",
+        "email_pass":"xupvssvyswwqdgnm",
+        "admin_user":"Jubayer",
+        "admin_pass":"password",
+        "uplopad_loc":"E:\\downloads\\linux recovery\\Flask Notes\\Flask7\\static\\img"
+    }
+
+
+}
